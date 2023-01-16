@@ -339,6 +339,22 @@ h6{font-size: 16px ;}
     background-color: var(--buttonColor);
     border:none;
 }
+.post-page{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:50px;
+
+}
+.Post-Main{
+    border: 2px solid var(--borderColor);
+
+}
+.post-image{
+    
+    height:auto;
+    width:95%;
+}
 @media screen and (max-width: 1200px) {
     .main-container{
         width: 95%;
